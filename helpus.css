@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(to right top, #0b0537, #2d1766, #5c2195, #9423c2, #d412eb);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.main{
+    width: 600px;
+    height: auto;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    border-radius: 30px;
+    font-size: 1em;
+
+}
+img{
+width: 500px;
+margin: 20px;
+ }
+
+ h1{
+    font-size: 2em;
+    font-weight: 700;
+ }
+ h4{
+    font-size: 1.1em;
+ 
+}
+h3{
+    margin: 0px;
+}

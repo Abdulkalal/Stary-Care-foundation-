@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(to right top, #ce2ece, #008fff, #00c4ff, #00e6ef, #06fb97);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+li{
+    background:#00e6ef;
+    border: black 1px solid;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 30px;
+    width: 700px;
+    list-style: none;
+    font-size: 1.1em;
+    font-weight: 800;
+    display: flex;
+    justify-content: space-between;
+}
+li button{
+height: 30x;
+width: 100px;
+padding: 10px;
+margin: 0px;
+background-color: #ce2ece;
+color: white;
+border-radius: 30px;
+border: 0px;
+outline: 0px;
+font-size: 1em;
+font-weight: 800;
+
+}
